@@ -1,0 +1,16 @@
+#font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    font-style: oblique;
+    color: rgb(55, 37, 174);
+}
+#flex{
+    height: 500px;
+    width: 300px;
+    background-color: beige;
+    padding: 5px;
+}
+#heads{
+    color: green;
+    text-decoration: wavy;
+}
